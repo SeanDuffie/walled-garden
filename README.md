@@ -67,16 +67,16 @@ Plans and Instructions for setting up a home network, self hosting many services
         3. Microsoft
         4. etc.
     2. Check Social Media
-        2. Instagram: 
-        3. Facebook
-        4. Threads
-        5. X (Twitter)
-        6. Snapchat
-        7. GroupMe
-        8. Discord
-        9. Reddit: User Settings -> Safety & Privacy -> Authorized Applications
-        10. Twitch: Profile Pic -> Settings -> Connections. Disconnect all publishers and social links
-        11. Xbox: 
-        12. Steam
+        1. Instagram: 
+        2. Facebook
+        3. Threads
+        4. X (Twitter)
+        5. Snapchat
+        6. GroupMe
+        7. Discord
+        8. Reddit: User Settings -> Safety & Privacy -> Authorized Applications
+        9. Twitch: Profile Pic -> Settings -> Connections. Disconnect all publishers and social links
+        10. Xbox: 
+        11. Steam
     3. Bonus: Poison the archives - Use a tool like Redact, Power Delete Suite, or Shreddit. This allows obfuscation before deletion, so that you can poison AI scrapers and online archives. 
 9. Recommended: Swap to Linux if feasible (at least take some time to know how it works, so you aren't hopeless if it becomes necessary).
